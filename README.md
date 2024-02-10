@@ -11,9 +11,7 @@
 
 ### Стек:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="HTML" width="20" height="20"/> &nbsp
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="20" height="20"/> &nbsp
           
 
 1. HTML верстка на основе БЭМ (адаптивная, семантическая, кроссбраузерная);
