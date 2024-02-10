@@ -11,6 +11,8 @@
 
 ### Стек:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="HTML" width="20" height="20"/> &nbsp
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
