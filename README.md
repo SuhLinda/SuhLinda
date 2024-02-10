@@ -20,11 +20,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="github" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman" width="60" height="60" />
-
-1. HTML верстка на основе БЭМ (адаптивная, семантическая, кроссбраузерная);
-2. CSS (Flexbox, Grid, Pixel-perfect);
-3. UI/UX при помощи Figma;
-4. JavaScript (ES6), TypeScript;
-5. React (CRA, React Router), Redux;
-6. Webpack, Node.js, Express.js;
-7. Git, BASH, Postman.
