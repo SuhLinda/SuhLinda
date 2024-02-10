@@ -11,7 +11,9 @@
 
 ### Стек:
           
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="CSS" width="60" height="60" />
+          
           
 
 1. HTML верстка на основе БЭМ (адаптивная, семантическая, кроссбраузерная);
