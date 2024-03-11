@@ -1,11 +1,5 @@
 ***Frontend developer***
 
-Больше года занимаюсь разработкой. 
-
-Люблю заниматься вёрсткой и вязанием)
-
-Создала 5 проектов
-
 ### Линда 
 ### https://t.me/SuxLinda
 ### linda.suhovenko@yandex.ru
